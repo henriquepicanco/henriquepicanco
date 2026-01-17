@@ -12,3 +12,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (UNINTER - 1/5), já ten
   <a href="https://www.linkedin.com/in/henriquepicanco/" target="_blank" rel="author"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriquepicancodev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <p>Practicing <b>JavaScript</b>, <b>TypeScript</b> and <b>Python</b> on <b>Codewars</b>.</p>
+  <p>
+    <a href="https://www.codewars.com/users/henriquepicanco"><img src="https://www.codewars.com/users/henriquepicanco/badges/large" alt="Codewars"></a>
+  </p>
+</div>
